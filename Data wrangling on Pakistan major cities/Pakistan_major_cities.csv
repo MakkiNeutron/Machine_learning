@@ -1,0 +1,57 @@
+city,city_ascii,lat,lng,country,iso2,iso3,province,capital,population,id
+Karachi,Karachi,24.86,67.01,Pakistan,PK,PAK,Sindh,admin,11624219.0,1586129469
+Lahore,Lahore,31.5497,74.3436,Pakistan,PK,PAK,Punjab,admin,6310888.0,1586801463
+Sialkot City,Sialkot City,32.5,74.5333,Pakistan,PK,PAK,Punjab,minor,2506595.0,1586141444
+Faisalabad,Faisalabad,31.418000000000003,73.079,Pakistan,PK,PAK,Punjab,minor,1743101.0,1586323916
+Rawalpindi,Rawalpindi,33.6007,73.0679,Pakistan,PK,PAK,Punjab,minor,1437230.0,1586344001
+Peshawar,Peshawar,34.0,71.5,Pakistan,PK,PAK,Khyber Pakhtunkhwa,admin,1386330.0,1586851102
+Saidu Sharif,Saidu Sharif,34.75,72.3572,Pakistan,PK,PAK,Khyber Pakhtunkhwa,minor,1384471.0,1586619596
+Multan,Multan,30.1978,71.4711,Pakistan,PK,PAK,Punjab,minor,1218773.0,1586256291
+Gujranwala,Gujranwala,32.15,74.1833,Pakistan,PK,PAK,Punjab,minor,788915.0,1586400472
+Islamabad,Islamabad,33.6989,73.0369,Pakistan,PK,PAK,Punjab,primary,733675.0,1586306717
+Quetta,Quetta,30.191999999999997,67.007,Pakistan,PK,PAK,Balochistan,admin,725000.0,1586556108
+Bahawalpur,Bahawalpur,29.3956,71.6722,Pakistan,PK,PAK,Punjab,minor,700000.0,1586038700
+Sargodha,Sargodha,32.0836,72.6711,Pakistan,PK,PAK,Punjab,minor,640000.0,1586696588
+New Mirpur,New Mirpur,33.1333,73.75,Pakistan,PK,PAK,Azad Kashmir,minor,601600.0,1586007078
+Chiniot,Chiniot,31.7167,72.9833,Pakistan,PK,PAK,Punjab,minor,552607.0,1586413435
+Sukkur,Sukkur,27.6995,68.8673,Pakistan,PK,PAK,Sindh,minor,542603.0,1586383591
+Larkana,Larkana,27.56,68.2264,Pakistan,PK,PAK,Sindh,minor,477396.0,1586678302
+Shekhupura,Shekhupura,31.7083,74.0,Pakistan,PK,PAK,Punjab,minor,417767.0,1586291726
+Jhang City,Jhang City,31.2681,72.3181,Pakistan,PK,PAK,Punjab,minor,364033.0,1586288677
+Gujrat,Gujrat,32.5736,74.0789,Pakistan,PK,PAK,Punjab,minor,342900.0,1586006990
+Kasur,Kasur,31.1167,74.45,Pakistan,PK,PAK,Punjab,minor,341210.0,1586858135
+Mardan,Mardan,34.1958,72.0447,Pakistan,PK,PAK,Khyber Pakhtunkhwa,minor,301506.0,1586001546
+Dera Ghazi Khan,Dera Ghazi Khan,30.05,70.6333,Pakistan,PK,PAK,Punjab,minor,300000.0,1586002238
+Nawabshah,Nawabshah,26.2442,68.41,Pakistan,PK,PAK,Sindh,minor,290643.0,1586294005
+Sahiwal,Sahiwal,30.6706,73.1064,Pakistan,PK,PAK,Punjab,minor,279914.0,1586672083
+Mirpur Khas,Mirpur Khas,25.5269,69.0111,Pakistan,PK,PAK,Sindh,minor,236093.0,1586156251
+Okara,Okara,30.81,73.4597,Pakistan,PK,PAK,Punjab,minor,235695.0,1586880900
+Jacobabad,Jacobabad,28.2769,68.4514,Pakistan,PK,PAK,Sindh,minor,223648.0,1586964444
+Kohat,Kohat,33.5869,71.4414,Pakistan,PK,PAK,Khyber Pakhtunkhwa,minor,201781.0,1586349992
+Muzaffargarh,Muzaffargarh,30.0703,71.1933,Pakistan,PK,PAK,Punjab,minor,199531.0,1586492401
+Mandi Bahauddin,Mandi Bahauddin,32.5861,73.4917,Pakistan,PK,PAK,Punjab,minor,170588.0,1586202018
+Abbottabad,Abbottabad,34.15,73.2167,Pakistan,PK,PAK,Khyber Pakhtunkhwa,minor,165192.0,1586788758
+Dadu,Dadu,26.7319,67.775,Pakistan,PK,PAK,Sindh,minor,164246.0,1586791198
+Pakpattan,Pakpattan,30.35,73.4,Pakistan,PK,PAK,Punjab,minor,156901.0,1586409848
+Tando Allahyar,Tando Allahyar,25.4667,68.7167,Pakistan,PK,PAK,Sindh,minor,153656.0,1586001015
+Vihari,Vihari,30.0419,72.3528,Pakistan,PK,PAK,Punjab,minor,142426.0,1586888846
+Nowshera,Nowshera,34.0153,71.9747,Pakistan,PK,PAK,Khyber Pakhtunkhwa,minor,139726.0,1586290729
+Swabi,Swabi,34.1167,72.4667,Pakistan,PK,PAK,Khyber Pakhtunkhwa,minor,129733.0,1586628764
+Dera Ismail Khan,Dera Ismail Khan,31.8167,70.9167,Pakistan,PK,PAK,Khyber Pakhtunkhwa,minor,127202.0,1586008360
+Charsadda,Charsadda,34.1453,71.7308,Pakistan,PK,PAK,Khyber Pakhtunkhwa,minor,126706.0,1586928614
+Mianwali,Mianwali,32.5853,71.5436,Pakistan,PK,PAK,Punjab,minor,124602.0,1586006907
+Bhakkar,Bhakkar,31.6333,71.0667,Pakistan,PK,PAK,Punjab,minor,120000.0,1586655125
+Zhob,Zhob,31.3417,69.4486,Pakistan,PK,PAK,Balochistan,minor,119785.0,1586969046
+Jamshoro,Jamshoro,25.4283,68.2822,Pakistan,PK,PAK,Sindh,minor,112426.0,1586889028
+Toba Tek Singh,Toba Tek Singh,30.9667,72.4833,Pakistan,PK,PAK,Punjab,minor,102444.0,1586875835
+Mansehra,Mansehra,34.3333,73.2,Pakistan,PK,PAK,Khyber Pakhtunkhwa,minor,97249.0,1586902336
+Bannu,Bannu,32.9889,70.6056,Pakistan,PK,PAK,Khyber Pakhtunkhwa,minor,93883.0,1586858934
+Timargara,Timargara,34.8281,71.8408,Pakistan,PK,PAK,Khyber Pakhtunkhwa,minor,89570.0,1586843763
+Gwadar,Gwadar,25.1264,62.3225,Pakistan,PK,PAK,Balochistan,minor,88031.0,1586857142
+Tank,Tank,32.2167,70.3833,Pakistan,PK,PAK,Khyber Pakhtunkhwa,minor,86900.0,1586200762
+Hangu,Hangu,33.5281,71.0572,Pakistan,PK,PAK,Khyber Pakhtunkhwa,minor,85479.0,1586769539
+Karak,Karak,33.1167,71.0833,Pakistan,PK,PAK,Khyber Pakhtunkhwa,minor,81950.0,1586491871
+Umarkot,Umarkot,25.3614,69.7361,Pakistan,PK,PAK,Sindh,minor,78954.0,1586494172
+Chitral,Chitral,35.8511,71.7889,Pakistan,PK,PAK,Khyber Pakhtunkhwa,minor,77481.0,1586861716
+Kotli,Kotli,33.5156,73.9019,Pakistan,PK,PAK,Azad Kashmir,minor,75694.0,1586677063
+Gilgit,Gilgit,35.9208,74.3144,Pakistan,PK,PAK,Gilgit-Baltistan,minor,74640.0,1586284242
