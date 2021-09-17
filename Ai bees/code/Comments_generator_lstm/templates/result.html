@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+
+	<header>
+		<div class="container">
+		<div id="brandname">
+			ML App
+		</div>
+		<h2>Post topic detection</h2>
+
+	</div>
+	</header>
+	<p style="color:blue;font-size:20;text-align: center;"><b>Results </b></p>
+	<div class="results">
+
+
+
+	{% if prediction == 'tech'%}
+	<h2 style="color:red;">Technology</h2>
+	{% elif prediction == 'sport'%}
+	<h2 style="color:blue;">Sport(It is a Ham)</h2>
+	{% elif prediction == 'business'%}
+	<h2 style="color:blue;">Business(It is a Ham)</h2>
+	{% elif prediction == 'entertainment'%}
+	<h2 style="color:blue;">Entertainment(It is a Ham)</h2>
+	{% elif prediction == 'politics'%}
+	<h2 style="color:blue;">Politics(It is a Ham)</h2>
+	{% endif %}
+
+	</div>
+
+</body>
+</html>
