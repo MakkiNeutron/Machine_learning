@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pakistan Home Price Prediction</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="{{ url_for('static',
+    	filename='js/app.js') }}"></script>
+	<link rel="stylesheet" href="{{ url_for('static',
+    	filename='css/app.css') }}">
+
+
+</head>
+<body>
+
+<div class="img"></div>
+<form  action="{{url_for('predict_home_price')}}" method="POST" class="form">
+	<h2 style=color:white;>Area (Square Feet)</h2>
+    <input class="area"  type="text" id="uiSqft" class="floatLabel" name="area_sqft" value="1000">
+	<h2 style=color:white; >Room</h2>
+	<input class="area" type="number" name='bedrooms' value=1 placeholder="Enter the no of Bedrooms">
+	<h2 style=color:white;>Bath</h2>
+	<input class="area" type="number" name="baths" value=1 placeholder="Enter the no of Bathrooms">
+	<h2 style=color:white;>Location</h2>
+	<select class="location" name="location" id="uiLocations">
+    <option value="" disabled="disabled" selected="selected">Choose a Location</option>
+		<option>North Karachi</option>
+        <option>New Karachi</option>
+	</select>
+
+	<h2 style=color:white;>Home type</h2>
+
+  <select class="location" name="hometype" id="uihometypes">
+    <option value="" disabled="disabled" selected="selected">Choose a home type</option>
+		<option>Flat</option>
+        <option>Upper portion</option>
+  </select>
+
+
+	<!-button class="submit" onclick="onClickedEstimatePrice()" type="button"-><!-Estimate Price-><!-/button->
+	<input class="submit" type="submit" value="Estimate Price"/>
+	<p class="result"> Pkr : {{data}}</p>
+</form>>
+
+
+
+
+</body>
+</html>

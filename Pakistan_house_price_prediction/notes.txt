@@ -1,0 +1,4 @@
+https://techyscientists.blogspot.com/2021/07/house-price-prediction-using-flask.html
+https://github.com/PrinceAjudiya/Deploy-House-Price-Prediction-Using-Flask-in-Heroku/blob/main/templates/index.html
+https://github.com/codebasics/py/tree/master/DataScience/BangloreHomePrices
+https://github.com/ckacquah/House-Price-Prediction
